@@ -53,7 +53,7 @@ Video: https://youtu.be/95DWmPECbDc
 
 <br>
 
-<b>4_calibration.py</b> - calibrate StereoPi cameas setup using pairs from script 4.
+<b>4_calibration.py</b> - calibrate StereoPi cameras setup using pairs from script 4.
 
 Video: https://youtu.be/vtPhu23tKGo
 
